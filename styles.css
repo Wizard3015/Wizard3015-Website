@@ -3,3 +3,8 @@ p {
   font-size: 25px;
   text-align: center;
 }
+.test {
+  width: 80%;
+  max-width: 500px;
+  background-color: brown;
+}
